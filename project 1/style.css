@@ -1,0 +1,127 @@
+
+*{
+            margin: 0;
+            padding: 0;
+}
+#nav {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+}
+.logo {
+      margin: 0;
+      padding: 0;     
+}
+h1{
+            color: aqua;
+}
+samp{
+            color: black;
+}
+.menu{
+            
+           display: flex;
+           align-items: center;
+         
+}
+
+.menu a{
+            color: black;
+            text-decoration: none;
+            padding: 15%;
+
+}
+
+img{
+            width: 100%;
+}
+#content {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 100%;
+}
+.img {
+         width: 50%;   
+}
+.con{
+            width: 50%;
+            text-align: center;
+            margin-top: 60px;
+}
+#box {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 100%;
+            
+}
+.box1{
+            margin: 10px;
+            padding: 10px;
+}
+.box2{
+            margin: 10px;
+            padding: 10px;
+}
+.box3{
+            margin: 10px;
+            padding: 10px;
+}
+#footer {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 100%;
+            background-color: antiquewhite;
+}
+.onlineshoping {
+            background-color: antiquewhite;
+}
+.onlineshoping h4 {
+ margin-bottom: 10px;
+}
+.onlineshoping ul {
+            list-style-type: none;
+            color: gray;
+}
+.usefullinks {
+            background-color: antiquewhite;
+}
+.usefullinks h4 {
+            margin-bottom: 10px;
+}
+.usefullinks ul {
+            list-style-type: none;
+            color: gray;
+}
+#form {
+      display: flex;
+      flex-direction: row;
+            justify-content: space-around;
+      width: 100%;
+}
+.form{
+      margin: 10%;
+      display: flex;
+      justify-content: center;
+      width: 50%;
+}
+.form label {
+      font-size: 25px;
+      margin-top: 20px;
+}
+.form input {
+      font-size: 25px;
+      margin-top: 20px;
+}
+.form button {
+      font-size: 25px;
+      width: 100%;
+      margin-top: 30px;
+      background-color: blue;
+      color: white;
+}
+.mep {
+      width: 50%;
+}

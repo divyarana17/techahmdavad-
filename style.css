@@ -1,0 +1,15 @@
+h1 {
+            color: blue;
+}
+
+#dd {
+           margin: 100px 40px 100px 40px;
+           padding: 100px 50px 100px 50px;
+            background-color: rgb(120, 99, 139);
+            color: blue;
+            /* border-color: red;
+            border-width: 10px;
+            border-radius: 10px;
+            border-style: solid; */
+            border:  10px solid black;
+}
